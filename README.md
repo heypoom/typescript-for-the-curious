@@ -14,6 +14,16 @@ _Description TBA_
 
 _Course Outline TBA_
 
+### 101: The Basics
+
+- Naming Lies
+  - Why use TypeScript?
+- You're already using TypeScript
+  - Type Inference in JavaScript.
+- 
+
+### 102: 
+
 ## Resources and Materials
 
 - Slides: TBA
